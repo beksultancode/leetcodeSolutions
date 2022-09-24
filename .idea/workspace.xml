@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b8e3044-0a62-4cd1-8811-413191b51019" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcodeSolutions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/findCustomerReferee/solution.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/gamePlayAnalysisI/solution.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/jewelsAndStones/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/pivotIndex/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/singleElementInASortedArray/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/sortArrayByParityII/Solution.java" afterDir="false" />
-    </list>
+    <list default="true" id="0b8e3044-0a62-4cd1-8811-413191b51019" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +33,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RunManager" selected="Application.leetcode.sortArrayByParityII.Solution">
@@ -124,7 +110,7 @@
       <workItem from="1663693261816" duration="3407000" />
       <workItem from="1663828875651" duration="947000" />
       <workItem from="1663871445754" duration="2759000" />
-      <workItem from="1664003066043" duration="1882000" />
+      <workItem from="1664003066043" duration="2701000" />
     </task>
     <servers />
   </component>
