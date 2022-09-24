@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b8e3044-0a62-4cd1-8811-413191b51019" name="Changes" comment="" />
+    <list default="true" id="0b8e3044-0a62-4cd1-8811-413191b51019" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/leetcode/findSubsequenceOfLengthKWithTheLargestSum/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,13 +40,31 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.leetcode.sortArrayByParityII.Solution">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/leetcode/sqlSolutions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.leetcode.findSubsequenceOfLengthKWithTheLargestSum.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.pivotIndex.Solution" />
       <module name="leetcodeSolutions" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.pivotIndex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leetcode.findSubsequenceOfLengthKWithTheLargestSum.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.findSubsequenceOfLengthKWithTheLargestSum.Solution" />
+      <module name="leetcodeSolutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.findSubsequenceOfLengthKWithTheLargestSum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,6 +113,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leetcode.findSubsequenceOfLengthKWithTheLargestSum.Solution" />
         <item itemvalue="Application.leetcode.sortArrayByParityII.Solution" />
         <item itemvalue="Application.leetcode.jewelsAndStones.Solution" />
         <item itemvalue="Application.leetcode.singleElementInASortedArray.Solution" />
@@ -111,7 +133,7 @@
       <workItem from="1663828875651" duration="947000" />
       <workItem from="1663871445754" duration="2759000" />
       <workItem from="1664003066043" duration="2836000" />
-      <workItem from="1664035550787" duration="335000" />
+      <workItem from="1664035550787" duration="2773000" />
     </task>
     <servers />
   </component>
