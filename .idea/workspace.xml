@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b8e3044-0a62-4cd1-8811-413191b51019" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/howManyNumbersAreSmallerThanTheCurrentNumber/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,7 +134,8 @@
       <workItem from="1664003066043" duration="2836000" />
       <workItem from="1664035550787" duration="4435000" />
       <workItem from="1664207083600" duration="5404000" />
-      <workItem from="1664262569009" duration="1871000" />
+      <workItem from="1664262569009" duration="2155000" />
+      <workItem from="1665213300935" duration="606000" />
     </task>
     <servers />
   </component>
